@@ -25,5 +25,11 @@
 ## 📫 Connect With Me
 
 - LinkedIn: [Connect!](https://www.linkedin.com/in/niromikha/)
+  
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=cinnabonacai&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 
