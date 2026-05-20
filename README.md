@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Niromikha 👋
 
-<!--
-**cinnabonacai/cinnabonacai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Data Science + Software Engineering  
+🎓 MS in Applied Data Science @ USC  
+⚡ Building ML + Big Data Projects  
+☁️ Interested in AI, Distributed Systems & Finance  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+```python
+Languages: Python, SQL, Java
+ML/AI: TensorFlow, Scikit-learn, Pandas
+Big Data: Spark, Hadoop
+Databases: PostgreSQL, MySQL
+Tools: Docker, Git, Azure
+```
+
+---
+
+## Connect With Me
+
+- LinkedIn: [add-link-here](https://www.linkedin.com/in/niromikha/)
