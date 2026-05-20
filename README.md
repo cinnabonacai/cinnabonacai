@@ -24,7 +24,7 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Connect!](https://www.linkedin.com/in/niromikha/)
+- LinkedIn: [Let's Connect!](https://www.linkedin.com/in/niromikha/)
   
 ---
 
