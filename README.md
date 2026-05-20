@@ -21,4 +21,4 @@ Tools: Docker, Git, Azure
 
 ## Connect With Me
 
-- LinkedIn: [add-link-here](https://www.linkedin.com/in/niromikha/)
+- LinkedIn: [Connect!](https://www.linkedin.com/in/niromikha/)
